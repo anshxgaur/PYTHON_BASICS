@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Small Tag Example</title>
+</head>
+<body>
+    <h1>Small Tag Example</h1>
+    <p>This is some normal text. <small>This is a small text.</small></p>
+    <p>The interest rate is only 10% <small>* per day</small></p>
+</body>
+</html>Copied!   
